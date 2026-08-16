@@ -1,0 +1,34 @@
+body{
+    background-image: url(https://i.pinimg.com/736x/c5/35/23/c53523bc48e232c61683ccfc71ada4c9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+#MEOW{
+    border: 4.5px solid blue;
+    padding: 0.66%;
+}
+
+#lolz{
+    border: 2px solid black;                /* dito ung layo at layo haha */
+        margin: 30px;                       /*Use the HTML style attribute for inline styling
+                                                    Use the HTML <style> element to define internal CSS
+                                                    Use the HTML <link> element to refer to an external CSS file
+                                                    Use the HTML <head> element to store <style> and <link> elements
+                                                    Use the CSS color property for text colors
+                                                    Use the CSS font-family property for text fonts
+                                                    Use the CSS font-size property for text sizes
+                                                    Use the CSS border property for borders
+                                                    Use the CSS padding property for space inside the border
+                                                    Use the CSS margin property for space outside the border*/
+        padding: 1%;
+}
+
+
+
+#HAHA,th,td {
+    border: 1px solid black
+}
+;
+    
