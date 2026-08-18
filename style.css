@@ -1,5 +1,5 @@
 body{
-    background-image: url(https://i.pinimg.com/736x/c5/35/23/c53523bc48e232c61683ccfc71ada4c9.jpg);
+    background-image: url(https://i.pinimg.com/736x/56/7e/58/567e583ef24084f9dc4bd13f3a9b9d2b.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -25,10 +25,52 @@ body{
         padding: 1%;
 }
 
-
+/*
+dotted     
+dashed     
+solid     
+double     
+groove     
+ridge     
+inset     
+outset     
+none     
+hidden     
+*/
 
 #HAHA,th,td {
-    border: 1px solid black
+    border-spacing: 100px;
+    border: 2px solid pink;
+    /*border-collapse: collapse;*/
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    color: rgb(240, 65, 16);
+    border-radius: 100px;
+    border-style: dotted;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 40px;
 }
+    th,td{
+        background-color: black;
+       
+    }
+
+    
+      /*  tr:nth-child(even) {
+  background-color: #000000;*/
+
+
+  #llist{
+   list-style-type: upper-roman;
+  }
+
+  #memes{
+    list-style-type: circle
+  }
+  
+    
+    
 ;
     
