@@ -1,1 +1,4 @@
-The start of everything this is what i learned so far on programming hopefully this journey is worth it
+Established: AUG 9 2026
+
+
+First ever repository but didn't pursue it
